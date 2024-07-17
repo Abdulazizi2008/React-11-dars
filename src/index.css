@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.all {
+  background-image: url(/Rectangle\ 1.png);
+}
+.abc {
+  background-image: url(/Rectangle.png);
+}
+.abcd {
+  background-image: url(/Rectangl.png);
+}
